@@ -1,1 +1,13 @@
 pragmatic_odoo_whatsapp_integration.zip filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/ filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/i18n filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/__init__.py filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/README.md filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/static filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/security filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/views filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/wizard filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/controller filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/LICENSE filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/__manifest__.py filter=lfs diff=lfs merge=lfs -text
+pragmatic_odoo_whatsapp_integration/models filter=lfs diff=lfs merge=lfs -text
